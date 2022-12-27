@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656865304004",
+    "project_id": "kahve-da754",
+    "storage_bucket": "kahve-da754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656865304004:android:c7f85145bba7d453845891",
+        "android_client_info": {
+          "package_name": "com.example.e_ticaret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656865304004-4g6oak566me474fo7tmf128n27e0f5n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCatSE-yXaEfnqIjCjd57PdzTGeEm-NRag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656865304004-4g6oak566me474fo7tmf128n27e0f5n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
